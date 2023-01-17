@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SBZ.png">
+<SubTexture name="GHZ0000" x="0" y="0" width="256" height="176" frameX="0" frameY="0" frameWidth="256" frameHeight="176" />
+<SubTexture name="GHZ0001" x="256" y="0" width="256" height="176" frameX="0" frameY="0" frameWidth="256" frameHeight="176" />
+<SubTexture name="GHZ0002" x="0" y="176" width="256" height="176" frameX="0" frameY="0" frameWidth="256" frameHeight="176" />
+<SubTexture name="GHZ0003" x="256" y="176" width="256" height="176" frameX="0" frameY="0" frameWidth="256" frameHeight="176" />
+<SubTexture name="GHZ0004" x="512" y="0" width="256" height="176" frameX="0" frameY="0" frameWidth="256" frameHeight="176" />
+<SubTexture name="GHZ0005" x="512" y="176" width="256" height="176" frameX="0" frameY="0" frameWidth="256" frameHeight="176" />
+<SubTexture name="GHZ0006" x="0" y="352" width="256" height="176" frameX="0" frameY="0" frameWidth="256" frameHeight="176" />
+<SubTexture name="GHZ0007" x="256" y="352" width="256" height="176" frameX="0" frameY="0" frameWidth="256" frameHeight="176" />
+<SubTexture name="GHZ0008" x="512" y="352" width="256" height="176" frameX="0" frameY="0" frameWidth="256" frameHeight="176" />
+<SubTexture name="GHZ0009" x="0" y="528" width="256" height="176" frameX="0" frameY="0" frameWidth="256" frameHeight="176" />
+<SubTexture name="GHZ0010" x="256" y="528" width="256" height="176" frameX="0" frameY="0" frameWidth="256" frameHeight="176" />
+<SubTexture name="GHZ0011" x="512" y="528" width="256" height="176" frameX="0" frameY="0" frameWidth="256" frameHeight="176" />
+<SubTexture name="GHZ0012" x="768" y="0" width="256" height="176" frameX="0" frameY="0" frameWidth="256" frameHeight="176" />
+<SubTexture name="GHZ0013" x="768" y="176" width="256" height="176" frameX="0" frameY="0" frameWidth="256" frameHeight="176" />
+<SubTexture name="GHZ0014" x="768" y="352" width="256" height="176" frameX="0" frameY="0" frameWidth="256" frameHeight="176" />
+<SubTexture name="GHZ0015" x="768" y="528" width="256" height="176" frameX="0" frameY="0" frameWidth="256" frameHeight="176" />
+</TextureAtlas>
